@@ -1,0 +1,9 @@
+# Bỏ qua thư mục môi trường ảo
+.venv/
+
+# Bỏ qua file biên dịch python
+__pycache__/
+*.pyc
+
+# Bỏ qua các file model nặng
+*.pt
